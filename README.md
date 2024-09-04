@@ -1,16 +1,6 @@
-# pr1
+# Практическая работа №1 по Программированию корпоративных систем
+## Мрясова Анастасия Александровна ЭФБО-01-22
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Установка всех компонентов
+1. Установила Android Studio и Flutter SDK по инструкции на сайте Metanit
+![](pics/Снимок экрана 2024-09-04 143418.png)
